@@ -73,3 +73,17 @@ In the following sections, we will evaluate each library's ability to meet our s
 - More complex and difficult to learn than Leaflet or Mapbox GL, with a steep learning curve
 - Can be heavy and slower than Leaflet or Mapbox GL, especially with many layers or data sources
 - Less suitable for smaller or simpler web mapping applications
+
+
+
+## Honorable mentions
+
+### Google Maps JavaScript API
+
+The Google Maps JavaScript API offers many of the same features as the other libraries mentioned. However,it is a proprietary API and not an open-source library.
+
+In terms of functionality, the Google Maps JavaScript API offers a wide range of features, including the ability to display maps, draw shapes and markers, add overlays, and interact with the map through various events. It also offers powerful tools for geocoding, routing, and other spatial data operations.
+
+One advantage of using the Google Maps JavaScript API is its integration with other Google services, such as Street View and Google Places. It also offers extensive documentation and a large user community for support.
+
+However, using the Google Maps JavaScript API may come with some drawbacks, such as pricing and usage restrictions, as well as potential limitations on customization and flexibility compared to open-source libraries.
